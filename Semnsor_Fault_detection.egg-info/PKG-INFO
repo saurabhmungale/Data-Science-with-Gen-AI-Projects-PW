@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: Semnsor-Fault-detection
+Version: 0.0.1
+Author: SAURABH_MUNGALE
+Author-email: saurabhmungale99@gmail.com
+Requires-Dist: pandas
